@@ -1,0 +1,8 @@
+# Configuration for GitHub Pages
+# This file enables GitHub Pages deployment from the main branch
+
+# Optional: Custom domain configuration
+# domain: your-domain.com
+
+# GitHub Pages will automatically serve index.html from the root
+# No additional configuration needed for this simple static site
